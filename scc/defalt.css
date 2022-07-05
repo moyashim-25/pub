@@ -5,6 +5,10 @@
     font-family: "Noto Sans", "Noto Sans JP", "源ノ角ゴシック", "Hiragino Sans", "ヒラギノ角ゴシック", "Yu Gothic", "游ゴシック", sans-serif;
 }
 
+body {
+    margin: 1em;
+}
+
 small {
     text-align: center;
 }
