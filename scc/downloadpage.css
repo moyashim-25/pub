@@ -21,7 +21,10 @@ a.dbox:active {
 div.downloadfield {
     border-bottom: 1px solid black;
 }
-img {
-    width: 95%;
+
+div.img {
     padding: 1em;
+}
+img {
+    width: 100%;
 }
