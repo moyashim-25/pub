@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+a.dbox {
+    display: block;
+    margin: 1em;
+    padding: 1.5em;
+    font-weight: 700;
+    text-decoration-line: none;
+    color: white;
+    background-color: #1f74bd;
+    text-align: center;
+    border-radius: 1em;
+}
+a.dbox:hover {
+    text-decoration-line: underline;
+}
+a.dbox:active {
+    background-color: #10426e;
+}
+
+div.downloadfield {
+    border-bottom: 1px solid black;
+}
+img {
+    width: 95%;
+    padding: 1em;
+}
